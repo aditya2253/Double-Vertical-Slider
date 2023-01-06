@@ -1,1 +1,1 @@
-# Vertical-Slider
+# Double Vertical-Slider
