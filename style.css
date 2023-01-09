@@ -100,9 +100,4 @@ button:focus {
   border-bottom-right-radius: 5px;
 }
 
-@media screen and (max-width: 450px){
-  .right-slide{
-    width:50%;
-  }
-}
-  
+
