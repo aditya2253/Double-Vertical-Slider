@@ -20,7 +20,7 @@ body {
 
 .left-slide {
   height: 100%;
-  width: 35%;
+  width: 40%;
   position: absolute;
   top: 0;
   left: 0;
@@ -38,17 +38,21 @@ body {
 }
 
 .left-slide h1 {
-  font-size: 40px;
-  margin-bottom: 10px;
+  font-size: 43px;
+  margin-bottom: 5px;
   margin-top: -30px;
+}
+
+.left-slide p{
+    font-size: 18px;
 }
 
 .right-slide {
   height: 100%;
   position: absolute;
   top: 0;
-  left: 35%;
-  width: 65%;
+  left: 40%;
+  width: 60%;
   transition: transform 0.5s ease-in-out;
 }
 
@@ -79,7 +83,7 @@ button:focus {
 
 .slider-container .action-buttons button {
   position: absolute;
-  left: 35%;
+  left: 40%;
   top: 50%;
   z-index: 100;
 }
